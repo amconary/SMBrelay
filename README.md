@@ -7,7 +7,7 @@ Project consists of performing a SMB relay attack, a type of technique using a m
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Repsonder</b> 
+- <b>Responder</b> 
 - <b>Nmap</b>
 - <b>Mousepad</b>
 - <b>Netcat</b>
